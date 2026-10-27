@@ -1,0 +1,20 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Dataset images and archives
+dataset/
+*.zip
+
+# Trained model files (too large for normal GitHub uploads)
+models/
+*.keras
+*.h5
+
+# Local environment files
+.env
